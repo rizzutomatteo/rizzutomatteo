@@ -20,8 +20,8 @@ University of Camerino — Unicam · *Expected graduation: [YEAR]*
 **IT Diploma — Computer Science**
 ITIS Eustachio Divini · San Severino Marche
 
-Relevant coursework:
-Programming · Computer Science Fundamentals · Algorithms & Data Structures · Computer Architecture · Data · Databases · Operating Systems · Programming Methodologies & Tools · Operations Research · Software Engineering · Advanced Programming Paradigms · Languages & Compilers
+Relevant coursework:<br>
+Computer Science Fundamentals · Algorithms & Data Structures · Computer Architecture · Databases · Operating Systems · Programming Methodologies & Tools · Operations Research · Software Engineering · Advanced Programming Paradigms · Languages & Compilers
 
 ---
 
