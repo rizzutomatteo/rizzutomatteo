@@ -1,14 +1,14 @@
-# Ciao, sono [Il Tuo Nome]! 👋
+# Hi there, I'm Matteo Rizzuto! 👋
 
 <div align="center">
   <img src="https://vercel.app🎓&fontSize=40&animation=fadeIn" />
 </div>
 
-### 👨‍💻 Chi sono
-- 🎓 Studente di **Informatica (L31)** presso l'**Università di Camerino**.
-- 🏫 Incuriosito da: [es. Sviluppo Web, Intelligenza Artificiale, CyberSecurity].
-- 📍 Base a: [Camerino / Tua Città].
-- 🌱 Attualmente sto approfondendo: [es. Java, Python, Algoritmi].
+### 👨‍💻 About Me
+- 🎓 **Computer Science (L31)** student at the **University of Camerino** (Italy).
+- 🏫 Passionate about: [e.g., Software Engineering, Algorithms, Web Development].
+- 📍 Based in: [Your City/Camerino].
+- 🌱 Currently learning: [e.g., Java, Python, Advanced Data Structures].
 
 ---
 
@@ -21,24 +21,24 @@
 
 ---
 
-### 📊 Le mie Statistiche GitHub
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://vercel.app[IL_TUO_USERNAME_QUI]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://vercel.app" alt="Matteo's GitHub Stats" />
   <br>
-  <img src="https://vercel.app[IL_TUO_USERNAME_QUI]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Come trovarmi
+### 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com[IL_TUO_LINKEDIN]/" target="blank"><img align="center" src="https://githubusercontent.com" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:[TUA_EMAIL]@studenti.unicam.it" target="blank"><img align="center" src="https://githubusercontent.com" alt="Email" height="30" width="40" /></a>
+  <a href="https://linkedin.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:matteo.rizzuto@studenti.unicam.it" target="blank"><img align="center" src="https://githubusercontent.com" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"L'informatica non riguarda i computer più di quanto l'astronomia riguardi i telescopi."</i><br>
+  <i>"Computer science is no more about computers than astronomy is about telescopes."</i><br>
   — <b>Edsger W. Dijkstra</b>
 </p>
