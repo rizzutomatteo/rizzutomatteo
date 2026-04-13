@@ -15,7 +15,7 @@ I am a computer science undergraduate at the University of Camerino, focused on 
 ## Education
 
 **Bachelor's Degree in Computer Science (L-31)**
-University of Camerino — Unicam · *Expected graduation: [YEAR]*
+University of Camerino — Unicam · *Expected graduation: [2026]*
 
 **IT Diploma — Computer Science**
 ITIS Eustachio Divini · San Severino Marche
